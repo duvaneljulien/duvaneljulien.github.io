@@ -6,9 +6,10 @@ tagline: Graduate student in Statistics and software developer
 {% include JB/setup %}
 
 As of today this website is under construction but don't hesitate to drop me an email at [julien@duvanel.ch](mailto:julien@duvanel.ch).
+<!--
 <img src="/images/JD.jpg" alt="Julien D." width="100px" style="float:right" />
 
-<!--
+
 # Quick Tour
 
 Where am I ? 
