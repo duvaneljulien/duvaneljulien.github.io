@@ -9,7 +9,7 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : duvanel.ch
+title : julien.duvanel.ch
 tagline: Graduate student in statistics and software developer
 author :
   name : Julien Duvanel
