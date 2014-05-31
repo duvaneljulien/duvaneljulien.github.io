@@ -97,6 +97,13 @@
                   </a>
                 </li>
                 {% endif %}
+                {% if site.author.stackexchange %}
+                <li>
+                  <a href="http://stats.stackexchange.com/users/{{ site.author.stackexchange }}" class="zocial stackoverflow icon" target="_blank">
+                    <span class="hidden-desktop">StackExchange</span>
+                  </a>
+                </li>
+                {% endif %}                
               </ul>
             </div>
           </div>

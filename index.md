@@ -7,9 +7,9 @@ tagline: Graduate student in Statistics and software developer
 
 # Skills
 
-	Statistical modeling (frequentist or bayesian methods)
-	Software development (various languages)
-	Fast adaptation to any environment
+	Data analyst
+	Statistical modeling
+	Software development
 	
 	
 # Quick Tour
@@ -24,7 +24,7 @@ What for ?
 
 Until ? 
 	
-> I'm going to leave Switzerland for **`Stanford University`** in San Francisco (USA) next September 2014. I'm going to be over there as a Visiting Student Researcher to do my master's thesis. My studies are going to be over and I am going to be a **`Master of Science MSc in Applied Mathematics`**.	
+> I'm going to leave Switzerland to **`Stanford University`** in San Francisco (USA) next September 2014. I'm going to be over there as a Visiting Student Researcher to do my master's thesis. Afterwards I am going to have a **`Master of Science MSc in Applied Mathematics`**.	
 	
 What can I do ? 
 
@@ -40,11 +40,11 @@ What else do I like ?
 
 Do you want more info ?
 
-> You can have a look at my [LinkedIn](http://www.linkedin.com/in/duvaneljulien) profile or consult my [CV](http://www.google.ch/).
+> You can have a look at my [LinkedIn](http://www.linkedin.com/in/duvaneljulien) profile or consult my [CV](files/CV_Julien.Duvanel_EN.pdf).
 
 Or maybe contact me ?
 
 > Don't hesitate to drop me an email at <julien@duvanel.ch>. 
 
-<sub>Updated May 22 2014</sub>
+<sub>Updated May 29 2014</sub>
 
